@@ -15,13 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="size.c">
+    <ClCompile Include="001_printf.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="type.c">
+    <ClCompile Include="002_scanf.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\Project1\交换两个值.c">
+    <ClCompile Include="003_运算符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="004_流程控制IF.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="005_size.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="006_type.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="007_交换两个值.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
