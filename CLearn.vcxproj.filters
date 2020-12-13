@@ -36,5 +36,17 @@
     <ClCompile Include="007_交换两个值.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="009_结构体.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="008_指针.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="010_练习if.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="011_getchar.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
