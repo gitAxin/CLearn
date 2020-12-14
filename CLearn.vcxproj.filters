@@ -48,5 +48,11 @@
     <ClCompile Include="011_getchar.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="013_阶乘练习.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="012_doWhile.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
