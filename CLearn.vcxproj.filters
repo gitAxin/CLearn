@@ -81,5 +81,8 @@
     <ClCompile Include="022_猜数字游戏.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="023_关机程序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
