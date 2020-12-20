@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\module">
+      <UniqueIdentifier>{ec624962-8454-4493-a2c5-fed4d46b0c6f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="001_printf.c">
@@ -84,5 +87,25 @@
     <ClCompile Include="023_关机程序.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="024_函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="025_自定义函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="027_函数声明与定义.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="026_自定义函数2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mul.c">
+      <Filter>源文件\module</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="mul.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
