@@ -111,6 +111,18 @@
     <ClCompile Include="030_递归3.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="031_数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="032_数组在内存中的布局.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="033_二维数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="034_冒泡排序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="mul.h">
