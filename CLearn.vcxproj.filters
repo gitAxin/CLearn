@@ -102,6 +102,15 @@
     <ClCompile Include="mul.c">
       <Filter>源文件\module</Filter>
     </ClCompile>
+    <ClCompile Include="028_递归.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="029_递归2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="030_递归3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="mul.h">
