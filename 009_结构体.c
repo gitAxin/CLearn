@@ -9,9 +9,16 @@ struct Book {
 
 
 };
+typedef struct Pointer {
+	int x;
+	int y;
+}Pointer;//别名
 
 
 int main() {
+
+	Pointer p = { 1,2 };//使用typedef关键字定义的类型，在使用时可以不用加struct关键字
+
 	struct Book b1 = {
 		"C语言",60
 	};

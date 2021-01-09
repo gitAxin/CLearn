@@ -9,6 +9,7 @@
     %lf 输出双精度浮点型
     %o 输出8进制
     %x或%X或%#x 输出十六进制
+    %s 输出字符串
 */
 # include <stdio.h>
 int main()

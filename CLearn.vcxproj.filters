@@ -126,10 +126,37 @@
     <ClCompile Include="035_数组作为参数.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="036_统计二进制位1的个数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="037_求两个数二进制位有多少个位不同.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="038_打印二进制位的奇数位与偶数位.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="039_不使用下标打印数组元素.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="040_字符串反转不使用库函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="041_输入非负整数返回组成它的数字之和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="042_计算n的k次方.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="043_水仙花.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="mul.h">
       <Filter>头文件</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
   </ItemGroup>
 </Project>

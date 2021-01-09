@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*数组作为参数时，传入的其实时数组中第1个元素的地址*/
 void BubbSort(int arr[], int len) {
 	
 	for (int i = 0; i < len - 1; i++) {
