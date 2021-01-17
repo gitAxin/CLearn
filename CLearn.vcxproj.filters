@@ -150,6 +150,9 @@
     <ClCompile Include="043_水仙花.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="044_函数指针.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="mul.h">

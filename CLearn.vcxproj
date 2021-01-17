@@ -260,6 +260,7 @@
     <ClCompile Include="041_输入非负整数返回组成它的数字之和.c" />
     <ClCompile Include="042_计算n的k次方.c" />
     <ClCompile Include="043_水仙花.c" />
+    <ClCompile Include="044_函数指针.c" />
     <ClCompile Include="mul.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
