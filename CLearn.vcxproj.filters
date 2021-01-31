@@ -16,115 +16,13 @@
     <Filter Include="源文件\module">
       <UniqueIdentifier>{ec624962-8454-4493-a2c5-fed4d46b0c6f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\指针笔试题">
+      <UniqueIdentifier>{9dc8c4ec-96c1-4f51-9e10-83738cf29c72}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="001_printf.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="002_scanf.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="003_运算符.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="004_流程控制IF.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="005_size.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="006_type.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="007_交换两个值.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="009_结构体.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="008_指针.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="010_练习if.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="011_getchar.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="013_阶乘练习.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="012_doWhile.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="014_最大公约数.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="015_闰年.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="016_素数.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="017_计数9.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="018_分数求和.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="019_求最大值.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="020_乘法口诀表.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="021_二分查找法.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="022_猜数字游戏.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="023_关机程序.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="024_函数.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="025_自定义函数.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="027_函数声明与定义.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="026_自定义函数2.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="mul.c">
       <Filter>源文件\module</Filter>
-    </ClCompile>
-    <ClCompile Include="028_递归.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="029_递归2.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="030_递归3.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="031_数组.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="032_数组在内存中的布局.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="033_二维数组.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="034_冒泡排序.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="035_数组作为参数.c">
-      <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="036_统计二进制位1的个数.c">
       <Filter>源文件</Filter>
@@ -151,6 +49,66 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="044_函数指针.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="045_指针练习.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="046_指针笔试题1.c">
+      <Filter>源文件\指针笔试题</Filter>
+    </ClCompile>
+    <ClCompile Include="047_指针笔试题2.c">
+      <Filter>源文件\指针笔试题</Filter>
+    </ClCompile>
+    <ClCompile Include="048_指针笔试题3.c">
+      <Filter>源文件\指针笔试题</Filter>
+    </ClCompile>
+    <ClCompile Include="049_指针笔试题4.c">
+      <Filter>源文件\指针笔试题</Filter>
+    </ClCompile>
+    <ClCompile Include="050_指针笔试题5.c">
+      <Filter>源文件\指针笔试题</Filter>
+    </ClCompile>
+    <ClCompile Include="051_指针笔试题6.c">
+      <Filter>源文件\指针笔试题</Filter>
+    </ClCompile>
+    <ClCompile Include="053_指针笔试题8.c">
+      <Filter>源文件\指针笔试题</Filter>
+    </ClCompile>
+    <ClCompile Include="052_指针笔试题7.c">
+      <Filter>源文件\指针笔试题</Filter>
+    </ClCompile>
+    <ClCompile Include="054_指针笔试题9.c">
+      <Filter>源文件\指针笔试题</Filter>
+    </ClCompile>
+    <ClCompile Include="056_函数逆序.c">
+      <Filter>源文件\指针笔试题</Filter>
+    </ClCompile>
+    <ClCompile Include="057_前n项之和.c">
+      <Filter>源文件\指针笔试题</Filter>
+    </ClCompile>
+    <ClCompile Include="058_打印菱形.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="059_喝汽水问题.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="060_调整奇数偶数顺序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="061_打印杨辉三角.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="062_猜凶手.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="063_猜名次.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="064_左旋字符串.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="065_杨氏矩陈.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
